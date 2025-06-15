@@ -9,6 +9,7 @@ const About = () => {
           ABOUT <span>US</span>
         </p>
       </div>
+      
 
       <div className="my-10 flex flex-col md:flex-row gap-12">
         <img
